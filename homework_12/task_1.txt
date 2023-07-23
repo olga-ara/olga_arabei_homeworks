@@ -1,0 +1,14 @@
+Hello
+append
+index
+2023
+insert
+data
+apple
+1986
+2012
+RW
+2016
+1984
+text
+python
