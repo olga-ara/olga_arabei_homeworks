@@ -5,14 +5,14 @@
 jaden_lst = []
 
 text = input('введите строку: ')
-def to_jaden_str(text):
-    x = string_jaden.title()
-    x = string_jaden.split('')
-    for i in x:
-        y = i.title()
-        jaden_lst.append(y)
-        string_jaden = "\"" + (' '.join(jaden_lst))+"\""
-    return print(string_jaden)
+# def to_jaden_str(text):
+#     x = string_jaden.title()
+#     x = string_jaden.split('')
+#     for i in x:
+#         y = i.title()
+#         jaden_lst.append(y)
+#         string_jaden = "\"" + (' '.join(jaden_lst))+"\""
+#     return print(string_jaden)
 
 
 # string_jaden = input('введите строку: ')
